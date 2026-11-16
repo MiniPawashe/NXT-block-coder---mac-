@@ -1,0 +1,1 @@
+[{"t":"forever","a":{},"c":[{"t":"ifelse","a":{},"cond":{"k":"dist","op":"<","v":20},"c":[{"t":"motor_off","a":{"m":"A+C"}},{"t":"beep","a":{"hz":440,"ms":200}}],"c2":[{"t":"motor_on","a":{"m":"A+C","p":50}}]}]}]
